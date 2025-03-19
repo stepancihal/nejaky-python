@@ -5,8 +5,6 @@
 # python
 zde bude ukazka kodu v pythonu
 ## kod
-tento kód se vás zeptá na číslo a to vynásobí samoo sebou a vypíše výsledek
+tento kód vypíše "hello world"
 ```python
-cislo = input("zadejte cislo ktere chcete vynasobit samo sebou")
-vysledek = cislo * cislo
-print("vysledek je" vysledek)
+print:("hello world")
